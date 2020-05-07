@@ -1,0 +1,11 @@
+        0 : {'key' : '666',
+             'ref' : ['666']
+             },
+        1 : {'key' : '令咒',
+             'ref' : [('The prefix for this server is `'+ bot.command_prefix
+                      +'`, which has been customised.')]
+             },
+        2 : {'key' : '哦三小',
+             'ref' : ['閉嘴啦，你知道你主人代數55嗎']
+             }
+        }
